@@ -1,0 +1,18 @@
+{
+    "9955": {
+        "name": "Rashmi",
+        "balance": 144000.0,
+        "transactions": [
+            "Deposited \u20b950000.0 on 2026-02-18 00:07:37.321324",
+            "Withdrawn \u20b96000.0 on 2026-02-18 00:07:52.627188"
+        ]
+    },
+    "123456": {
+        "name": "Rashmi",
+        "balance": 9960000.0,
+        "transactions": [
+            "Deposited \u20b910000.0 on 2026-02-18 09:25:10.768941",
+            "Withdrawn \u20b950000.0 on 2026-02-18 09:25:21.683471"
+        ]
+    }
+}
